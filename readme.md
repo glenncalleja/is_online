@@ -3,12 +3,21 @@ is_online
 
 **Is Online** is a Python module meant for cli use which checks whether you are connected to the Internet. By default it creates a request to Cloudflare's DNS at 1.1.1.1
 
+
+Instllation
+=====================================================
+
+You can install is_palindrome from [PyPI](https://pypi.org/project/is-online/)
+```shell
+pip install is-online
+```
+
 How to use
 =====================================================
 
 To use, simply run: 
 
-```shell
+```
 $ is_online
 You are Online!
 
