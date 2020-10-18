@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="is-online",
-    version="1.0.1",
+    version="1.0.2",
     author="Glenn Calleja Frendo",
     author_email="glenncal@gmail.com",
     description="A Python module meant for cli use which checks whether you are connected to the Internet.",
